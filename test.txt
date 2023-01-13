@@ -1,5 +1,5 @@
 "I am file :) second edit" local branch
-3 edit
+3 edit i am master
 4 edit 
 row 1 hello
 row 2
